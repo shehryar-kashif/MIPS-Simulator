@@ -1,0 +1,5 @@
+D:\NUST\4th Semester\CSA\Assignments\Assignment03_GUI\x64\Debug\Assignment03_GUI.vcxproj.AssemblyReference.cache
+D:\NUST\4th Semester\CSA\Assignments\Assignment03_GUI\x64\Debug\Assignment03_GUI.vcxproj.SuggestedBindingRedirects.cache
+D:\NUST\4th Semester\CSA\Assignments\Assignment03_GUI\x64\Debug\Assignment03GUI.MyForm.resources
+D:\NUST\4th Semester\CSA\Assignments\Assignment03_GUI\x64\Debug\Assignment03_GUI.vcxproj.GenerateResource.cache
+D:\NUST\4th Semester\CSA\Assignments\Assignment03_GUI\x64\Debug\Assignment03_GUI.exe
